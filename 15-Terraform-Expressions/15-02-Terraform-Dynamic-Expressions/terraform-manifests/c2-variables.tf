@@ -35,6 +35,6 @@ variable "name" {
 variable "team" {
   description = "The team responsible for the infrastructure"
   type = string
-  default     = "stacksimplify"
+  default     = "vcube"
 }
 
