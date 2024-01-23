@@ -31,7 +31,7 @@
 ```t
 # Clone Github Repo
 git clone https://github.com/<YOUR_GITHUB_ID>/<YOUR_REPO>.git
-git clone https://github.com/stacksimplify/terraform-cloud-demo1.git
+git clone https://github.com/Venn1991/terraform-cloud-demo1.git
 ```
 
 ## Step-05: Copy files from terraform-manifests to local repo & Check-In Code
@@ -69,7 +69,7 @@ git commit -am "TF Files First Commit"
 git push
 
 # Verify the same on Remote Repository
-https://github.com/stacksimplify/terraform-cloud-demo1.git
+https://github.com/Venn1991/terraform-cloud-demo1.git
 ```
 
 ## Step-06: Sign-Up for Terraform Cloud - Free Account & Login
@@ -81,7 +81,7 @@ https://github.com/stacksimplify/terraform-cloud-demo1.git
 
 ## Step-07: Create Organization 
 - **Organization Name:** hcta-demo1
-- **Email Address:** stacksimplify@gmail.com
+- **Email Address:** 
 - Click on **Create Organization**
 
 ## Step-08: Create New Workspace
@@ -94,7 +94,7 @@ https://github.com/stacksimplify/terraform-cloud-demo1.git
   - NEW WINDOW: **Authorize Terraform Cloud:** Click on **Authorize Terraform Cloud Button**
   - NEW WINDOW: **Install Terraform Cloud**
   - **Select radio button:** Only select repositories
-  - **Selected 1 Repository:** stacksimplify/terraform-cloud-demo1
+  - **Selected 1 Repository:** Venn1991/terraform-cloud-demo1
   - Click on **Install**
 - **Choose a Repository**
   - stacksimplify/terraform-cloud-demo1
@@ -114,7 +114,7 @@ https://github.com/stacksimplify/terraform-cloud-demo1.git
   - value: t3.micro
 
 ## Step-10: Configre Environment Variables
-- [Setup AWS Access Keys for Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs#environment-variables)
+- [Setup AWS Access Keys for Terraform])
 - Configure AWS Access Key ID and Secret Access Key  
 - **Environment Variable:** AWS_ACCESS_KEY_ID
   - Key: AWS_ACCESS_KEY_ID
