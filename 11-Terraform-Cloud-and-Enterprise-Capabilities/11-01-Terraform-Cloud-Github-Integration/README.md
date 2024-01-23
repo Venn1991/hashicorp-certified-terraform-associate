@@ -80,7 +80,7 @@ https://github.com/Venn1991/terraform-cloud-demo1.git
 - **Login URL:** https://app.terraform.io
 
 ## Step-07: Create Organization 
-- **Organization Name:** hcta-demo1
+- **Organization Name:** vcube-demo1
 - **Email Address:** 
 - Click on **Create Organization**
 
