@@ -97,7 +97,7 @@ https://github.com/Venn1991/terraform-cloud-demo1.git
   - **Selected 1 Repository:** Venn1991/terraform-cloud-demo1
   - Click on **Install**
 - **Choose a Repository**
-  - stacksimplify/terraform-cloud-demo1
+  - Venn1991/terraform-cloud-demo1
 - **Configure Settings**
   - **Workspace Name:** terraform-cloud-demo1 (Whatever populated automically leave to defaults) 
   - **Advanced Settings:** leave to defaults 
