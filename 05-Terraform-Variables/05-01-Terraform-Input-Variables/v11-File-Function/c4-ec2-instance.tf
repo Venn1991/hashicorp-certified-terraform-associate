@@ -12,7 +12,7 @@ resource "aws_instance" "my-ec2-vm" {
     sudo yum install httpd -y
     sudo systemctl enable httpd
     sudo systemctl start httpd
-    echo "<html><body><div>Welcome to StackSimplify ! AWS Infra created using Terraform</div></body></html>" > /var/www/html/index.html
+    echo "<html><body><div>Welcome to vcube ! AWS Infra created using Terraform</div></body></html>" > /var/www/html/index.html
     EOF
   */
   vpc_security_group_ids = [aws_security_group.vpc-ssh.id, aws_security_group.vpc-web.id]
